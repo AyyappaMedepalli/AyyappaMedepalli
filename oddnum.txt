@@ -1,0 +1,16 @@
+public class uppercase{
+	public static void main(String[] args) {
+		int x; //variable declaration
+		System.out.println("enter x value");
+		Scanner sc=new Scanner(System.in);
+		x=sc.nextInt();
+		x=x*2;
+		for(int i=1; i<=x; i++)
+		{
+			if(i%2 !=0)
+				System.out.print(i+" ");   
+		}
+				
+		
+	}
+}
