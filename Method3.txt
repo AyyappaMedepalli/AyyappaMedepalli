@@ -1,0 +1,25 @@
+package teja;
+
+public class Method3 {
+	String result(int x, int y, int z)
+	{
+		if(x>40 && y>40 && z>40)
+		{
+			return "pass";
+		}
+		else
+		{
+			return "fail";
+		}
+	}
+
+	public static void main(String[] args) {
+		// with return with args
+		Method3 m=new Method3();
+		String r=m.result(50,57,70);
+		System.out.println(r);
+		
+
+	}
+
+}
