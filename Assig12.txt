@@ -1,0 +1,32 @@
+class Bankcustomer
+{
+	int acno;
+	String atype;
+	int amt;
+	Bankcustomer(int a,String b,int c)
+	{
+		acno=a;
+		atype=b;
+		amt=c;
+	}
+	Bankcustomer()
+	{
+		acno=121;
+		atype="currentaccount";
+		amt=24000;
+	}
+	void show()
+	{
+		System.out.println(acno+" "+atype+" "+amt);
+	}
+	
+}
+public class Assig1{
+	public static void main(String[] args) {
+		Bankcustomer b1=new Bankcustomer(198,"savings",40000);
+		Bankcustomer b2=new Bankcustomer();
+		b2.show();
+		b1.show();
+		
+	}
+}

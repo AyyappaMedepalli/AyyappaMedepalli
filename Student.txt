@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+class Student
+{
+	int sid;
+	String sname;
+	int marks;
+	void input()
+	{
+		Scanner sc=new Scanner(System.in);
+		sid=sc.nextInt();
+		sname=sc.next();
+		marks=sc.nextInt();
+	}
+	void output()
+	{
+		System.out.println(sid+" "+sname+" "+marks);
+	}
+}
+
+public class Assig1 {
+	public static void main(String[] args) {
+		Student s1=new Student();
+		s1.input();
+		s1.output();
+	}
+
+}

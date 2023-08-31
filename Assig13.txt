@@ -1,0 +1,37 @@
+class Person
+{
+	int pid;
+	String pname;
+	Person()
+	{
+		pid=12;
+		pname="mouni";
+		
+	}
+}
+class Student extends Person
+{
+	int marks;
+	void show()
+	{
+		marks=98;
+		System.out.println(pid+" "+marks+" "+pname);
+	}
+}
+class Emp extends Person
+{
+	int salary;
+	void main()
+	{
+		salary=90000;
+		System.out.println(pid+" "+salary+" "+pname);
+	}
+}
+public class Assig1{
+	public static void main(String[] args) {
+		Student s1=new Student();
+		Emp e1=new Emp();
+		s1.show();
+		e1.main();
+	}
+}
