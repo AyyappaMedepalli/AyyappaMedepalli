@@ -1,0 +1,15 @@
+public class Assig41 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String ar=new String("ayyappa");
+		System.out.println(ar.concat("swami"));
+		System.out.println(ar.charAt(0));
+		System.out.println(ar.replace("ayyappa","swami"));
+		System.out.println(ar.indexOf('a'));
+		System.out.println(ar.startsWith("ayya"));
+		System.out.println(ar.endsWith("ppa"));
+		System.out.println(ar.equals("swami"));
+		System.out.println(ar.substring(0,4));
+	}
+}

@@ -1,0 +1,11 @@
+public class Assig41{
+	public static void main(String[] args) {
+		StringBuffer s1=new StringBuffer("ayyappa");
+		StringBuilder s2=new StringBuilder("swami");
+		System.out.println(s1.delete(0,3));
+		System.out.println(s1.append("ram"));
+		System.out.println(s1.length());
+		System.out.println(s2.append("ayyappa"));
+		System.out.println(s2.reverse());
+	}
+}

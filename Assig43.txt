@@ -1,0 +1,26 @@
+class Ayya
+{
+	String name;
+	Ayya(String a)
+	{
+		name=a;
+		System.out.println(name);
+	}
+	public String toString()
+	{
+		return name;
+	}
+}
+
+
+public class Assig41 {
+	public static void main(String[] args) {
+		Ayya a1=new Ayya("ayyappa");	
+		Ayya a2=a1;
+		System.out.println(a1.equals(a2));
+		System.out.println(a1.hashCode());
+		System.out.println(a1.toString());
+		System.out.println(a1.getClass());
+		System.out.println(a1==a2);
+		}
+}
