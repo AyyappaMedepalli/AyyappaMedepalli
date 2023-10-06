@@ -1,0 +1,6 @@
+select * 
+from emps as a1
+inner join 
+projects as a2
+on 
+a1.eid=a2.pid
