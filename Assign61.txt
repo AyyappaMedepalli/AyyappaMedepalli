@@ -1,0 +1,6 @@
+create table emp(
+eid int,
+ename varchar(40),
+sal int,
+designation varchar(50)
+)
