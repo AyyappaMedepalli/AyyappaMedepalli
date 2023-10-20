@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>
+            page2
+        </title>
+    </head>
+    <body>
+        <h1>list tags</h1>
+        <ul>
+            <li>india</li>
+            <li>america</li>
+            <li>southafrica</li>
+        </ul>
+        <ol>
+            <li>india</li>
+            <li>america</li>
+            <li>southafrica</li>
+        </ol>
+        <dl>
+            <dt>india</dt>
+            <dd>india have contian 29 states</dd>
+            <dt>america</dt>
+            <dd>america is the most powerful country</dd>
+            <dt>southafrica</dt>
+            <dd>is my fav</dd>
+        </dl>
+
+    </body>
+</html>

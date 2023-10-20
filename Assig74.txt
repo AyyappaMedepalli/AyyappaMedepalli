@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>page</title>
+    </head>
+    <body>
+        <h1>Google form</h1>
+        Name<input type="text"><br>
+        Mobile<input type="text"><br>
+        Email<input type="text"><br>
+        Password<input type="password">
+    </body>
+</html>

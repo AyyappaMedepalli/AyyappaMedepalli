@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title>
+            college web site
+        </title>
+    </head>
+    <body>
+        <h1>BVC engineering college</h1>
+        <a href="bvc block.html">bvc</a>
+        <a href="Administration block.html">Adm</a>
+        <a href="cateen.html">cateen</a>
+    </body>
+</html>
+
+
+
+7.1
+<html>
+    <head>
+        <title>bvc collge</title>
+    </head>
+    <body>
+        <h1>first year</h1>
+        <h2>ECE block</h2>
+        <h3>CSE block</h3>
+        <h4>EEE block</h4>
+        <h5>MECH block</h5>
+        <h6>CIVIL block</h6>
+        
+    </body>
+</html>
+
+
+7.2
+<html>
+    <head>
+        <title>bvc college</title>
+    </head>
+    <body>
+        <h1>principle room</h1>
+        <b>cashier</b>
+        <dl>
+            <dt>colllge fee</dt>
+            <dd>pay here</dd>
+            <dt>bus fee</dt>
+            <dd>pay here</dd>
+        </dl>
+    </body>
+</html>
+
+
+
+7.3
+
+<html>
+    <head>
+        <title>
+            bvc college
+        </title>
+    </head>
+    <body>
+        <h1>welcome to bcv canteen</h1>
+        <ol>
+            <li>tiffins</li>
+            <li>cool driks</li>
+            <li>cafe</li>
+            <li>biriyani point</li>
+        </ol>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+

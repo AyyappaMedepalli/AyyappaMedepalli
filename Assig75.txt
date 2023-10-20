@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>
+            page2
+        </title>
+    </head>
+    <body>
+        <h1>Text formating tags</h1>
+        <b>Bold</b><br>
+        <i>italic</i><br>
+        <em>emphasis</em><br>
+        <U>underlined text</U><br>
+        <strong>be strong</strong><br>
+        1<sub>st</sub><br>
+        2<sup>nd</sup><br>
+
+    </body>
+</html>

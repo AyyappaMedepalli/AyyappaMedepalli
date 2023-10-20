@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Sample table</title>
+    </head>
+    <body>
+        <table border="1">
+            <h1>Student</h1>
+            <tr>
+                <td>id</td>
+                <td>name</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>swami</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>sai</td>
+            </tr>
+        </table>
+    </body>
+</html>
